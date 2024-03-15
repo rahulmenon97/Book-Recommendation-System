@@ -5,8 +5,6 @@ The concept of identifying genres of books and implementing a hybrid recommendat
      - Collaborative Filtering
      - Content-Based Filtering
      - Contextual Recommendations
-![image](https://github.com/rahulmenon97/Recommendation-System/assets/61739715/3f35dc84-31a3-42e3-b2af-90b7d4fe56cf)
 
 **Objective**
-Develop a hybrid book recommendation system using collaborative filtering and content-based methods, considering user preferences, historical interactions, and genres for accurate and diverse recommendations
-![image](https://github.com/rahulmenon97/Recommendation-System/assets/61739715/2c42a33e-c804-4019-9e38-98c276663bd6)
+Developing a hybrid book recommendation system that combines collaborative filtering and content-based methods involves integrating multiple data sources and recommendation strategies to provide users with accurate and diverse book suggestions. This system aims to leverage the strengths of both collaborative filtering and content-based recommendation techniques while considering user preferences, historical interactions, and book genres
